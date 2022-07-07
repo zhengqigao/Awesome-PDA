@@ -2,7 +2,7 @@
 
 Here the repo contains many useful references in the area of photonic design automation (PDA). The goal of PDA is to use algorithmic methods (such as graph theory, optimization methods, statistics, and machine learning) to ease human burden when designing a photonics chip. 
 
-The reference list below will be updated regularly along the author's reading and research. If you find some overlooked papers, please open issues, contact the author, or pull requests.
+The reference list below will be updated regularly along the author's reading and research. If you find some overlooked papers, please open issues, contact the author at [zhengqi@mit.edu](mailto:zhengqi@mit.edu), or pull requests. For more info about the author, please see his homepage: [https://zhengqigao.github.io/](https://zhengqigao.github.io/).
 
 ## Electromagnetic (EM) Basics
 
@@ -11,5 +11,14 @@ The reference list below will be updated regularly along the author's reading an
 
 - [David J. Griffiths, 'Introduction to Electrodynamics'](https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/3AB220820DBB628E5A43D52C4B011ED4#overview)
     - Yet another classical textbook in EM. Compared to Jackson's, Griffiths's is more beginner friendly. It has many graphical illustrations and the math derivation is step by step. However, a few advanced topics are not covered (e.g., Green functions).
+
+
+## Introduction to integrated photonics
+
+
+- [Wim Bogaerts and Lukas Chrostowski, 'Silicon photonics circuit design: methods, tools and challenges'](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.201700237)
+
+- [Zhengqi Gao, 'Introduction to Photonic Design Automation'](https://zhengqigao.github.io/articles/Introduction_to_Photonic_Design_Automation.pdf)
+
 
 ... To be updated
