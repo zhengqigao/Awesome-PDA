@@ -2,7 +2,7 @@
 
 Here the repo contains many useful references in the area of photonic design automation (PDA). The goal of PDA is to use algorithmic methods (such as graph theory, optimization methods, statistics, and machine learning) to ease human burden when designing a photonics chip. The original goal of this repo is to help readers quickly get familiar with a area by reading the listed references.
 
-The reference list below will be updated regularly along the author's reading and research. If you find some overlooked papers (or even a whole overlooked area), please open issues, contact the author at [zhengqi@mit.edu](mailto:zhengqi@mit.edu), or pull requests. For more info about the author, please see his homepage: [https://zhengqigao.github.io/](https://zhengqigao.github.io/).
+The reference list below will be updated regularly along the author's reading and research. Want to contribute? If you find some overlooked papers (or even a whole overlooked area), please open issues, contact the author at [zhengqi@mit.edu](mailto:zhengqi@mit.edu), or pull requests. For more info about the author, please see his homepage: [https://zhengqigao.github.io/](https://zhengqigao.github.io/).
 
 ## Electromagnetic (EM) Basics
 
@@ -46,10 +46,26 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [Alexander Y. Piggott et al., 'Inverse design and demonstration of a compact and broadband on-chip wavelength demultiplexer'](https://www.nature.com/articles/nphoton.2015.69)
 
+- [Alexander Y. Piggott et al., 'Fabrication-constrained nanophotonic inverse design'](https://www.nature.com/articles/s41598-017-01939-2)
+
 - [Christopher M. Lalau-Keraly et al., 'Adjoint shape optimization applied to electromagnetic design'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-18-21693&id=260994)
 
 - [Mohammad H. Tahersima et al., 'Deep Neural Network Inverse Design of Integrated Photonic Power Splitters'](https://www.nature.com/articles/s41598-018-37952-2)
 
 - [Zhaocheng Liu et al., 'Tackling Photonic Inverse Design with Machine Learning'](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202002923)
+
+- [Wei Ma et al., 'Deep learning for the design of photonic structures'](https://www.nature.com/articles/s41566-020-0685-y)
+
+- [Armand C. R. Niederberger et al., 'Sensitivity analysis and optimization of sub-wavelength optical gratings using adjoints'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-22-11-12971&id=286390)
+
+    - Not limited to silicon photonics.
+
+- [K. Kojima et al., 'Deep Neural Networks for Inverse Design of Nanophotonic Devices'](https://ieeexplore.ieee.org/document/9316743)
+
+- [Zhengqi Gao et al., 'Automatic Design of a Broadband Directional Coupler via Bayesian Optimization'](https://github.com/zhengqigao/BayesOpt-JLT2022)
+
+## Surrogate model for simulation (EM field prediction)
+
+
 
 ... To be updated
