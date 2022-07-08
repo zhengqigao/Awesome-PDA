@@ -30,11 +30,23 @@ The reference list below will be updated regularly along the author's reading an
 
 - [Lukas Chrostowski and Michael Hochberg, 'Silicon Photonics Design From Devices to Systems'](https://www.cambridge.org/core/books/silicon-photonics-design/BF3CF13E8542BCE67FD2BBC7104ECEAB) 
 
+- [W. Bogaerts, M. Fiers and P. Dumon, 'Design Challenges in Silicon Photonics'](https://ieeexplore.ieee.org/abstract/document/6691908)
+
 - [Near Margalit et al., 'Perspective on the future of silicon photonics and electronics'](https://aip.scitation.org/doi/10.1063/5.0050117)
 
 - [D. -X. Xu et al., 'Silicon Photonic Integration Platform—Have We Found the Sweet Spot?'](https://ieeexplore.ieee.org/document/6709757?arnumber=6709757)
 
 - [Zhengqi Gao, 'Introduction to Photonic Design Automation'](https://zhengqigao.github.io/articles/Introduction_to_Photonic_Design_Automation.pdf)
+
+
+## Inverse design (shape/topology optimization)
+
+Adjoint method plus gradient descent optimization appears to be the main stream currently.
+
+- [AY Piggott et al., 'Inverse design and demonstration of a compact and broadband on-chip wavelength demultiplexer'](https://www.nature.com/articles/nphoton.2015.69)
+
+- [CM L. Keraly et al., 'Adjoint shape optimization applied to electromagnetic design'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-18-21693&id=260994)
+
 
 
 ... To be updated
