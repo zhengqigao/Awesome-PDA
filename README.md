@@ -38,6 +38,7 @@ The reference list below will be updated regularly along the author's reading an
 
 - [Zhengqi Gao, 'Introduction to Photonic Design Automation'](https://zhengqigao.github.io/articles/Introduction_to_Photonic_Design_Automation.pdf)
 
+    - A 2-page newbie-friendly article. Only high school knowledge required.
 
 ## Inverse design (shape/topology optimization)
 
