@@ -1,8 +1,8 @@
 # Awesome Photonic Design Automation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Here the repo contains many useful references in the area of photonic design automation (PDA). The goal of PDA is to use algorithmic methods (such as graph theory, optimization methods, statistics, and machine learning) to ease human burden when designing a photonics chip. 
+Here the repo contains many useful references in the area of photonic design automation (PDA). The goal of PDA is to use algorithmic methods (such as graph theory, optimization methods, statistics, and machine learning) to ease human burden when designing a photonics chip. The original goal of this repo is to help readers quickly get familiar with a area by reading the listed references.
 
-The reference list below will be updated regularly along the author's reading and research. If you find some overlooked papers, please open issues, contact the author at [zhengqi@mit.edu](mailto:zhengqi@mit.edu), or pull requests. For more info about the author, please see his homepage: [https://zhengqigao.github.io/](https://zhengqigao.github.io/).
+The reference list below will be updated regularly along the author's reading and research. If you find some overlooked papers (or even a whole overlooked area), please open issues, contact the author at [zhengqi@mit.edu](mailto:zhengqi@mit.edu), or pull requests. For more info about the author, please see his homepage: [https://zhengqigao.github.io/](https://zhengqigao.github.io/).
 
 ## Electromagnetic (EM) Basics
 
@@ -49,5 +49,6 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [Mohammad H. Tahersima et al., 'Deep Neural Network Inverse Design of Integrated Photonic Power Splitters'](https://www.nature.com/articles/s41598-018-37952-2)
 
+- [Zhaocheng Liu et al., 'Tackling Photonic Inverse Design with Machine Learning'](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202002923)
 
 ... To be updated
