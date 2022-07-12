@@ -82,6 +82,22 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 ## Programmable Photonics 
 
+ - [Wim Bogaerts et al., 'Programmable photonic circuits'](https://www.nature.com/articles/s41586-020-2764-0)
+
+ - [Xiangfeng Chen et al., 'Graph Representation for Programmable Photonic Circuits'](https://ieeexplore.ieee.org/document/9056549)
+
+- [Daniel Pérez-López et al., 'Programmable Integrated Silicon Photonics Waveguide Meshes: Optimized Designs and Control Algorithms'](https://ieeexplore.ieee.org/document/8873623)
+
+- [Saumil Bandyopadhyay, Ryan Hamerly, and Dirk Englund, 'Hardware error correction for programmable photonics'](https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-10-1247&id=459915)
+
+- [Daniel Pérez-López et al., 'Multipurpose self-configuration of programmable photonic circuits'](https://www.nature.com/articles/s41467-020-19608-w)
+
+- [Wim Bogaerts's presentation on programmable photonics](https://www.youtube.com/watch?v=CBhdLTTbYoM&t=2048s)
+
+     - Highly recommended. A really nice introduction with lots of figures!
+
+- [Aitor López et al., 'Auto-routing algorithm for field-programmable photonic gate arrays'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-1-737&id=425613)
+
 ## Optical Neural Network
 
 ... To be updated
