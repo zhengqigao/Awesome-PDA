@@ -66,6 +66,22 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 ## Surrogate model for simulation (EM field prediction)
 
+- [Rahul Trivedi et al., 'Data-driven acceleration of photonic simulations'](https://www.nature.com/articles/s41598-019-56212-5)
 
+- [Tyler W. Hughes et al., 'Wave physics as an analog recurrent neural network'](https://www.science.org/doi/10.1126/sciadv.aay6946)
+
+- [M. Raissi, P. Perdikaris, and G.E. Karniadakis, 'Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations'](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
+
+- [Yingheng Tang et al., 'Physics-informed recurrent neural network for time dynamics in optical resonances'](https://www.nature.com/articles/s43588-022-00215-2)
+
+- [Mingkun Chen et al., 'WaveY-Net: physics-augmented deep-learning for high-speed electromagnetic simulation and optimization'](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12011/120110C/WaveY-Net--physics-augmented-deep-learning-for-high-speed/10.1117/12.2612418.full?SSO=1)
+
+- [Joowon Lima and Demetri Psaltis, 'MaxwellNet: Physics-driven deep neural network training based on Maxwell’s equations'](https://aip.scitation.org/doi/10.1063/5.0071616)
+
+- [Zongyi Li et al., 'Fourier Neural Operator for Parametric Partial Differential Equations'](https://arxiv.org/abs/2010.08895)
+
+## Programmable Photonics 
+
+## Optical Neural Network
 
 ... To be updated
