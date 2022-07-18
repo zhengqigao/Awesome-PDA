@@ -100,4 +100,17 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 ## Optical Neural Network
 
+- [Yichen Shen et al., 'Deep learning with coherent nanophotonic circuits'](https://www.nature.com/articles/nphoton.2017.93?TB_iframe=true&width=921.6&height=921.6)
+
+- [Ying Zuo et al., 'All-optical neural network with nonlinear activation functions'](https://opg.optica.org/optica/fulltext.cfm?uri=optica-6-9-1132&id=417261)
+
+- [Ryan Hamerly et al., 'Large-Scale Optical Neural Networks Based on Photoelectric Multiplication'](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.021032)
+
+- [J. Bueno et al., 'Reinforcement learning in a large-scale photonic recurrent neural network'](https://opg.optica.org/optica/fulltext.cfm?uri=optica-5-6-756&id=392687)
+
+- [Qiming Zhang et al., 'Artificial neural networks enabled by nanophotonics'](https://www.nature.com/articles/s41377-019-0151-0)
+
+- [H. Zhang et al., 'An optical neural chip for implementing complex-valued neural network'](https://www.nature.com/articles/s41467-020-20719-7)
+
+
 ... To be updated
