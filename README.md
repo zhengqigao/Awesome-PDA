@@ -23,7 +23,7 @@ The reference list below will be updated regularly along the author's reading an
 
 
 
-## Introduction to integrated silicon photonics
+## Introduction to Integrated Silicon Photonics
 
 
 - [Wim Bogaerts and Lukas Chrostowski, 'Silicon photonics circuit design: methods, tools and challenges'](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.201700237)
@@ -40,7 +40,7 @@ The reference list below will be updated regularly along the author's reading an
 
     - A 2-page newbie-friendly article. Only high school knowledge required.
 
-## Inverse design (shape/topology optimization)
+## Inverse Design (Shape/Topology Optimization)
 
 Adjoint method plus gradient descent optimization appears to be the main stream currently. Using gradients in optimization is named first-order method. On the other hand, zero-order method (optimization without gradient) is occasionally used in inverse design of silicon photonics. 
 
@@ -64,7 +64,7 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [Zhengqi Gao et al., 'Automatic Design of a Broadband Directional Coupler via Bayesian Optimization'](https://github.com/zhengqigao/BayesOpt-JLT2022)
 
-## Surrogate model for simulation (EM field prediction)
+## Surrogate Model for Simulation (EM Field Prediction)
 
 - [Rahul Trivedi et al., 'Data-driven acceleration of photonic simulations'](https://www.nature.com/articles/s41598-019-56212-5)
 
@@ -112,5 +112,22 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [H. Zhang et al., 'An optical neural chip for implementing complex-valued neural network'](https://www.nature.com/articles/s41467-020-20719-7)
 
+## Variation: Impact, Modeling, and Calibration
+
+- [I. Zand et al., 'Effects of coupling and phase imperfections in programmable photonic hexagonal waveguide meshes'](https://opg.optica.org/prj/fulltext.cfm?uri=prj-8-2-211&id=426491)
+
+- [S. Bandyopadhyay et al., 'Effects of coupling and phase imperfections in programmable photonic hexagonal waveguide meshes'](https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-10-1247&id=459915)
+
+- [D. Boning et al., 'Variation-Aware Methods and Models for Silicon Photonic Design-for-Manufacturability'](https://ieeexplore.ieee.org/abstract/document/9547833)
+
+- [Z. Zhang et al., 'Enabling Wavelength-Dependent Adjoint-Based Methods for Process Variation Sensitivity Analysis in Silicon Photonics'](https://ieeexplore.ieee.org/abstract/document/9272849)
+
+- [X. Wang et al., 'Narrow-band waveguide Bragg gratings on SOI wafers with CMOS-compatible fabrication process'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-20-14-15547&id=239269)
+
+- [D. Melati et al., 'Real photonic waveguides: guiding light through imperfections'](https://re.public.polimi.it/retrieve/handle/11311/863356/52650/AOP2013_Melati.pdf)
+
+- [S. Johnson et al., 'Perturbation theory for Maxwell’s equations with shifting material boundaries'](https://math.mit.edu/~stevenj/papers/JohnsonIb02.pdf)
+
+... to be updated
 
 ... To be updated
