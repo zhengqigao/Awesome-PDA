@@ -25,6 +25,9 @@ The reference list below will be updated regularly along the author's reading an
 
 ## Introduction to Integrated Silicon Photonics
 
+- [Richard Soref 'The Past, Present, and Future of Silicon Photonics'](https://ieeexplore.ieee.org/document/4032698)
+
+    - A bit old though, published on 2006, but still a good overall summary.
 
 - [Wim Bogaerts and Lukas Chrostowski, 'Silicon photonics circuit design: methods, tools and challenges'](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.201700237)
 
@@ -80,6 +83,8 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [Zongyi Li et al., 'Fourier Neural Operator for Parametric Partial Differential Equations'](https://arxiv.org/abs/2010.08895)
 
+- [Jiaqi Gu et al., 'NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation'](https://arxiv.org/abs/2209.10098)
+
 ## Programmable Photonics 
 
  - [Wim Bogaerts et al., 'Programmable photonic circuits'](https://www.nature.com/articles/s41586-020-2764-0)
@@ -97,6 +102,8 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
      - Highly recommended. A really nice introduction with lots of figures!
 
 - [Aitor López et al., 'Auto-routing algorithm for field-programmable photonic gate arrays'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-1-737&id=425613)
+
+- [Zhengqi Gao et al., 'Automatic Synthesis of Light Processing Functions for Programmable Photonics: Theory and Realization'](https://arxiv.org/abs/2208.14453)
 
 ## Optical Neural Network
 
@@ -128,6 +135,10 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [S. Johnson et al., 'Perturbation theory for Maxwell’s equations with shifting material boundaries'](https://math.mit.edu/~stevenj/papers/JohnsonIb02.pdf)
 
-... to be updated
+# Optical Phased Array (Antenna Array, Beam Steering) 
+
+- [Matt Longbrake, 'True time-delay beamsteering for radar'](https://ieeexplore.ieee.org/document/6531062)
+
+- [Taehwan Kim et al., 'A Single-Chip Optical Phased Array in a Wafer-Scale Silicon Photonics/CMOS 3D-Integration Platform'](https://ieeexplore.ieee.org/abstract/document/8828069)
 
 ... To be updated
