@@ -135,7 +135,7 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [S. Johnson et al., 'Perturbation theory for Maxwell’s equations with shifting material boundaries'](https://math.mit.edu/~stevenj/papers/JohnsonIb02.pdf)
 
-# Optical Phased Array (Antenna Array, Beam Steering) 
+## Optical Phased Array (Antenna Array, Beam Steering) 
 
 - [Matt Longbrake, 'True time-delay beamsteering for radar'](https://ieeexplore.ieee.org/document/6531062)
 
