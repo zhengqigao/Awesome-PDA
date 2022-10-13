@@ -135,10 +135,16 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [S. Johnson et al., 'Perturbation theory for Maxwell’s equations with shifting material boundaries'](https://math.mit.edu/~stevenj/papers/JohnsonIb02.pdf)
 
+- [Y. Xing et al., 'Accurate extraction of fabricated geometry using optical measurement'](https://opg.optica.org/prj/fulltext.cfm?uri=prj-6-11-1008&id=399133)
+
 ## Optical Phased Array (Antenna Array, Beam Steering) 
 
 - [Matt Longbrake, 'True time-delay beamsteering for radar'](https://ieeexplore.ieee.org/document/6531062)
 
 - [Taehwan Kim et al., 'A Single-Chip Optical Phased Array in a Wafer-Scale Silicon Photonics/CMOS 3D-Integration Platform'](https://ieeexplore.ieee.org/abstract/document/8828069)
+
+- [A. Hajimiri et al., 'Integrated Phased Array Systems in Silicon'](https://ieeexplore.ieee.org/document/1495910)
+
+
 
 ... To be updated
