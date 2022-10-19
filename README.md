@@ -95,7 +95,7 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [K. Kojima et al., 'Deep Neural Networks for Inverse Design of Nanophotonic Devices'](https://ieeexplore.ieee.org/document/9316743)
 
-- [Zhengqi Gao et al., 'Automatic Design of a Broadband Directional Coupler via Bayesian Optimization'](https://github.com/zhengqigao/BayesOpt-JLT2022)
+- [Zhengqi Gao et al., 'Automatic Synthesis of Broadband Silicon Photonic Devices Via Bayesian Optimization'](https://github.com/zhengqigao/BayesOpt-JLT2022)
 
 ## Surrogate Model for Simulation (EM Field Prediction)
 
