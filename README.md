@@ -4,6 +4,17 @@ Here the repo contains many useful references in the area of photonic design aut
 
 The reference list below will be updated regularly along the author's reading and research. Want to contribute? If you find some overlooked papers (or even a whole overlooked area), please open issues, contact the author at [zhengqi@mit.edu](mailto:zhengqi@mit.edu), or pull requests. For more info about the author, please see his homepage: [https://zhengqigao.github.io/](https://zhengqigao.github.io/).
 
+## Prediction of the Market, BigTech Company
+
+- [Global Silicon Photonics Market Size Revenue Expected to Grow USD 9.14 Billion by 2030](https://www.prnewswire.com/news-releases/global-silicon-photonics-market-size-revenue-expected-to-grow-usd-9-14-billion-by-2030--with-27-4-cagr-polaris-market-research-301539481.html)
+
+- [Report: Rapid Growth Ahead for Silicon Photonics](https://www.optica-opn.org/home/industry/2022/august/report_rapid_growth_ahead_for_silicon_photonics/)
+
+- [Intel Labs Announces Integrated Photonics Research Advancement](https://www.intc.com/news-events/press-releases/detail/1555/intel-labs-announces-integrated-photonics-research)
+
+- [Nvidia shows what optically linked GPU sytems might look like](https://www.nextplatform.com/2022/08/17/nvidia-shows-what-optically-linked-gpu-systems-might-look-like/)
+
+
 ## Electromagnetic (EM) Basics
 
 - [John D. Jackson, 'Classical Electrodynamics'](https://www.wiley.com/en-us/Classical+Electrodynamics%2C+3rd+Edition-p-9780471309321) 
@@ -28,6 +39,8 @@ The reference list below will be updated regularly along the author's reading an
 - [Richard Soref 'The Past, Present, and Future of Silicon Photonics'](https://ieeexplore.ieee.org/document/4032698)
 
     - A bit old though, published on 2006, but still a good overall summary.
+
+- [Winnie N. Ye and Yule Xiong, 'Review of silicon photonics: history and recent advances'](https://www.tandfonline.com/doi/full/10.1080/09500340.2013.839836?scroll=top&needAccess=true)
 
 - [Wim Bogaerts and Lukas Chrostowski, 'Silicon photonics circuit design: methods, tools and challenges'](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.201700237)
 
