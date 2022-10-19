@@ -43,6 +43,23 @@ The reference list below will be updated regularly along the author's reading an
 
     - A 2-page newbie-friendly article. Only high school knowledge required.
 
+
+## Numerical Simulation Techniques (Mode, FDTD, S-Matrix, etc.)
+
+- [K. S. Chiang, 'Analysis of optical fibers by the effective-index method'](https://opg.optica.org/ao/fulltext.cfm?uri=ao-25-3-348&id=29059)
+
+    - Effective index method for eigenmode.
+
+- [Zhaoming Zhu and Thomas G. Brown, 'Full-vectorial finite-difference analysis of microstructured optical fibers'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-10-17-853&id=69852)
+
+    - Numericaly calculate eigenmode.
+
+- [John B. Schneider, 'Understanding the Finite-Difference Time-Domain Method'](https://eecs.wsu.edu/~schneidj/ufdtd/ufdtd.pdf)
+
+    - About FDTD method, with code implementation embedded. Friendly to beginner.
+
+... to be updated
+
 ## Inverse Design (Shape/Topology Optimization)
 
 Adjoint method plus gradient descent optimization appears to be the main stream currently. Using gradients in optimization is named first-order method. On the other hand, zero-order method (optimization without gradient) is occasionally used in inverse design of silicon photonics. 
