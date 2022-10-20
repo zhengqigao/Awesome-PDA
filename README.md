@@ -63,9 +63,7 @@ Effective Index Method:
 
 - [K. S. Chiang, 'Analysis of optical fibers by the effective-index method'](https://opg.optica.org/ao/fulltext.cfm?uri=ao-25-3-348&id=29059)
 
-    - Effective index method for eigenmode.
-
-- [lec22 Waveguide design Effective Index method](https://www.youtube.com/watch?v=Jb9Qzm88qbo)
+- [Lec22: Waveguide design Effective Index method](https://www.youtube.com/watch?v=Jb9Qzm88qbo)
 
 Eigenmode Solver:
 
