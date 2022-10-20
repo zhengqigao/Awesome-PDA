@@ -4,7 +4,7 @@ Here the repo contains many useful references in the area of photonic design aut
 
 The reference list below will be updated regularly along the author's reading and research. Want to contribute? If you find some overlooked papers (or even a whole overlooked area), please open issues, contact the author at [zhengqi@mit.edu](mailto:zhengqi@mit.edu), or pull requests. For more info about the author, please see his homepage: [https://zhengqigao.github.io/](https://zhengqigao.github.io/).
 
-## Prediction of the Market, BigTech Company
+## Warm Up: Prediction of the Market, BigTech Company
 
 - [Global Silicon Photonics Market Size Revenue Expected to Grow USD 9.14 Billion by 2030](https://www.prnewswire.com/news-releases/global-silicon-photonics-market-size-revenue-expected-to-grow-usd-9-14-billion-by-2030--with-27-4-cagr-polaris-market-research-301539481.html)
 
@@ -59,19 +59,27 @@ The reference list below will be updated regularly along the author's reading an
 
 ## Numerical Simulation Techniques (Mode, FDTD, S-Matrix, etc.)
 
+Effective Index Method:  
+
 - [K. S. Chiang, 'Analysis of optical fibers by the effective-index method'](https://opg.optica.org/ao/fulltext.cfm?uri=ao-25-3-348&id=29059)
 
     - Effective index method for eigenmode.
 
+- [lec22 Waveguide design Effective Index method](https://www.youtube.com/watch?v=Jb9Qzm88qbo)
+
+Eigenmode Solver:
+
+- [P. Lusse, et al., 'Analysis of vectorial mode fields in optical waveguides by a new finite difference method'](https://ieeexplore.ieee.org/document/285331)
+
 - [Zhaoming Zhu and Thomas G. Brown, 'Full-vectorial finite-difference analysis of microstructured optical fibers'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-10-17-853&id=69852)
 
-    - Numericaly calculate eigenmode.
+Finite Difference Time Domain (FDTD):
 
 - [John B. Schneider, 'Understanding the Finite-Difference Time-Domain Method'](https://eecs.wsu.edu/~schneidj/ufdtd/ufdtd.pdf)
 
-    - About FDTD method, with code implementation embedded. Friendly to beginner.
+Scattering Matrix:
 
-... to be updated
+- [Interconnect S-Parameter Simulator (SPS)](https://optics.ansys.com/hc/en-us/articles/360034919853-INTERCONNECT-S-Parameter-Simulator-SPS-)
 
 ## Inverse Design (Shape/Topology Optimization)
 
