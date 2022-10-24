@@ -71,6 +71,12 @@ Eigenmode Solver:
 
 - [Zhaoming Zhu and Thomas G. Brown, 'Full-vectorial finite-difference analysis of microstructured optical fibers'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-10-17-853&id=69852)
 
+Couple Mode Theory:
+
+- [A. Yariv, 'Coupled-mode theory for guided-wave optics'](https://ieeexplore.ieee.org/document/1077767)
+
+- [Wei-Ping Huang, 'Coupled-mode theory for optical waveguides: an overview'](https://opg.optica.org/josaa/fulltext.cfm?uri=josaa-11-3-963&id=676)
+
 Finite Difference Time Domain (FDTD):
 
 - [John B. Schneider, 'Understanding the Finite-Difference Time-Domain Method'](https://eecs.wsu.edu/~schneidj/ufdtd/ufdtd.pdf)
