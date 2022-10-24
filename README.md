@@ -1,6 +1,7 @@
 # Awesome Photonic Design Automation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Here the repo contains many useful references in the area of photonic design automation (PDA). The goal of PDA is to use algorithmic methods (such as graph theory, optimization methods, statistics, and machine learning) to ease human burden when designing a photonics chip. The original goal of this repo is to help readers quickly get familiar with a area by reading the listed references.
+
+The goal of Photonics Design Automation is to use algorithmic methods (such as graph theory, optimization methods, statistics, and machine learning) to ease human burden when designing a photonics chip. Here the repo contains many useful references related to photnoics circuits from various perspectives, such as theory, modeling, application. I am hoping to inspire readers to excavate and then address underlying design problems using algorithms. Together, we will push design automation being a necessary compnonent in the photonic design flow and help its design easier than ever.
 
 The reference list below will be updated regularly along the author's reading and research. Want to contribute? If you find some overlooked papers (or even a whole overlooked area), please open issues, contact the author at [zhengqi@mit.edu](mailto:zhengqi@mit.edu), or pull requests. For more info about the author, please see his homepage: [https://zhengqigao.github.io/](https://zhengqigao.github.io/).
 
@@ -188,5 +189,8 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 - [A. Hajimiri et al., 'Integrated Phased Array Systems in Silicon'](https://ieeexplore.ieee.org/document/1495910)
 
 
+## Photonics for Quantumn 
+
+[Ali W. Elshaari et al., 'Hybrid integrated quantum photonic circuits'](https://www.nature.com/articles/s41566-020-0609-x)
 
 ... To be updated
