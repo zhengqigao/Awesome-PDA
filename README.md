@@ -34,6 +34,9 @@ The reference list below will be updated regularly along the author's reading an
 - [William Hayt and John Buck, 'Engineering Electromagnetic'](https://www.mheducation.com/highered/product/engineering-electromagnetics-hayt-buck/M9780078028151.html)
 
 
+- [Allan W. Snyder, John D. Love, 'Optical Waveguide Theory'](https://link.springer.com/book/10.1007/978-1-4613-2813-1)
+
+    - Classical and comprehensive.
 
 ## Introduction to Integrated Silicon Photonics
 
@@ -85,6 +88,12 @@ Finite Difference Time Domain (FDTD):
 Scattering Matrix:
 
 - [Interconnect S-Parameter Simulator (SPS)](https://optics.ansys.com/hc/en-us/articles/360034919853-INTERCONNECT-S-Parameter-Simulator-SPS-)
+
+Mode Expansion:
+
+- [Using and understanding Mode Expansion Monitors](https://optics.ansys.com/hc/en-us/articles/360034902433-Using-and-understanding-Mode-Expansion-Monitors)
+
+    - A rough description on how Lumerical impelments mode expansions.
 
 ## Inverse Design (Shape/Topology Optimization)
 
