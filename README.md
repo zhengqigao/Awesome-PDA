@@ -119,6 +119,7 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [Zhengqi Gao et al., 'Automatic Synthesis of Broadband Silicon Photonic Devices Via Bayesian Optimization'](https://github.com/zhengqigao/BayesOpt-JLT2022)
 
+
 ## Surrogate Model for Simulation (EM Field Prediction)
 
 - [Rahul Trivedi et al., 'Data-driven acceleration of photonic simulations'](https://www.nature.com/articles/s41598-019-56212-5)
@@ -189,6 +190,10 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [Y. Xing et al., 'Accurate extraction of fabricated geometry using optical measurement'](https://opg.optica.org/prj/fulltext.cfm?uri=prj-6-11-1008&id=399133)
 
+- [Z. Lu et al., 'Performance prediction for silicon photonics integrated circuits with layout-dependent correlated manufacturing variability'](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-25-9-9712&html=true)
+
+- [Y. Xing et al., 'Capturing the effects of spatial process variations in silicon photonic circuits'](https://pubs.acs.org/doi/10.1021/acsphotonics.2c01194)
+
 ## Optical Phased Array (Antenna Array, Beam Steering) 
 
 - [Matt Longbrake, 'True time-delay beamsteering for radar'](https://ieeexplore.ieee.org/document/6531062)
@@ -202,4 +207,10 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 [Ali W. Elshaari et al., 'Hybrid integrated quantum photonic circuits'](https://www.nature.com/articles/s41566-020-0609-x)
 
-... To be updated
+## Electronic-Photonic Co-simulation
+
+To me, this topic is a very important one, yet at a very immature stage. The futuer of circuits in my understanding will be a mixture of electronics and photonics on the same chip. Thus, electronic and photonic co-simulation is of huge interest. There are a few works exploring along this direction; even a commerical product, [OptiSpice](https://optiwave.com/optispice-overview/), is now available. However, personally, I feel that the current paradigm for co-simulation is far from satisfying, while tremendous efforts should be devoted to this topic. Of course, since {E,H} for photonics and {I,V} for electronics locate at two different abstract physical level, this topic won't be easy.
+
+[Cheryl Sorace-Agaskar et al., 'Electro-optical co-simulation for integrated CMOS photonic circuits with VerilogA'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-23-21-27180&id=330111)
+
+[Mark A. Neifeld and Wu-Chun Chou, 'Spice-based optoelectronic system simulation'](https://opg.optica.org/ao/fulltext.cfm?uri=ao-37-26-6093&id=43271)
