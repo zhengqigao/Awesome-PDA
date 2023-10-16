@@ -15,6 +15,7 @@ The reference list below will be updated regularly along the author's reading an
 
 - [Nvidia shows what optically linked GPU sytems might look like](https://www.nextplatform.com/2022/08/17/nvidia-shows-what-optically-linked-gpu-systems-might-look-like/)
 
+- [Google Details TPUv4 and its Crazy Optically Reconfigurable AI Network](https://www.servethehome.com/google-details-tpuv4-and-its-crazy-optically-reconfigurable-ai-network/)
 
 ## Electromagnetic (EM) Basics
 
@@ -94,6 +95,12 @@ Mode Expansion:
 - [Using and understanding Mode Expansion Monitors](https://optics.ansys.com/hc/en-us/articles/360034902433-Using-and-understanding-Mode-Expansion-Monitors)
 
     - A rough description on how Lumerical impelments mode expansions.
+
+Why MZI is universal:
+
+- [M. Reck et al.,'Experimental realization of any discrete unitary operator'](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.73.58)
+
+- [W. Clements et al., 'Optimal design for universal multiport interferometers'](https://opg.optica.org/optica/fulltext.cfm?uri=optica-3-12-1460&id=355743)
 
 ## Inverse Design (Shape/Topology Optimization)
 
@@ -194,6 +201,12 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [Y. Xing et al., 'Capturing the effects of spatial process variations in silicon photonic circuits'](https://pubs.acs.org/doi/10.1021/acsphotonics.2c01194)
 
+- [A.D. Simard et al., 'Impact of Sidewall Roughness on Integrated Bragg Gratings'](https://ieeexplore.ieee.org/document/6060839)
+
+- [Z. Gao et al., 'Few-Shot Bayesian Performance Modeling for Silicon Photonic Devices Under Process Variation'](https://ieeexplore.ieee.org/abstract/document/10109764)
+
+- [A. Hiraiwa, 'Statistical Model of Line-Edge and Line-Width Roughness for Device Variability Analysis'](https://ieeexplore.ieee.org/document/5751665)
+
 ## Optical Phased Array (Antenna Array, Beam Steering) 
 
 - [Matt Longbrake, 'True time-delay beamsteering for radar'](https://ieeexplore.ieee.org/document/6531062)
@@ -205,12 +218,27 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 ## Photonics for Quantumn 
 
-[Ali W. Elshaari et al., 'Hybrid integrated quantum photonic circuits'](https://www.nature.com/articles/s41566-020-0609-x)
+- [Ali W. Elshaari et al., 'Hybrid integrated quantum photonic circuits'](https://www.nature.com/articles/s41566-020-0609-x)
+
+- [C. Taballione, '8 × 8 programmable quantum photonic processor based on silicon nitride waveguides'](https://arxiv.org/abs/1805.10999)
 
 ## Electronic-Photonic Co-simulation
 
 To me, this topic is a very important one, yet at a very immature stage. The futuer of circuits in my understanding will be a mixture of electronics and photonics on the same chip. Thus, electronic and photonic co-simulation is of huge interest. There are a few works exploring along this direction; even a commerical product, [OptiSpice](https://optiwave.com/optispice-overview/), is now available. However, personally, I feel that the current paradigm for co-simulation is far from satisfying, while tremendous efforts should be devoted to this topic. Of course, since {E,H} for photonics and {I,V} for electronics locate at two different abstract physical level, this topic won't be easy.
 
-[Cheryl Sorace-Agaskar et al., 'Electro-optical co-simulation for integrated CMOS photonic circuits with VerilogA'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-23-21-27180&id=330111)
+- [Cheryl Sorace-Agaskar et al., 'Electro-optical co-simulation for integrated CMOS photonic circuits with VerilogA'](https://opg.optica.org/oe/fulltext.cfm?uri=oe-23-21-27180&id=330111)
 
-[Mark A. Neifeld and Wu-Chun Chou, 'Spice-based optoelectronic system simulation'](https://opg.optica.org/ao/fulltext.cfm?uri=ao-37-26-6093&id=43271)
+- [Mark A. Neifeld and Wu-Chun Chou, 'Spice-based optoelectronic system simulation'](https://opg.optica.org/ao/fulltext.cfm?uri=ao-37-26-6093&id=43271)
+
+## Layout
+
+- [An open-source layout tool targeting integrated photonic circuit layout](https://gdsfactory.github.io/gdsfactory/)
+
+- [Ahmadreza Farsaei, 'Introduction to Layout Design and Automation of Photonic Integrated Circuits'](https://link.springer.com/book/10.1007/978-3-031-25288-4)
+
+## System-Level Electro-Optical Integration
+
+- [S. Chen et al., 'Single-chip microprocessor that communicates directly using light'](https://www.nature.com/articles/nature16454)
+
+- [Amir H Atabaki et al., 'Integrating photonics with silicon nanoelectronics for the next generation of systems on a chip'](https://www.nature.com/articles/s41586-018-0028-z)
+
