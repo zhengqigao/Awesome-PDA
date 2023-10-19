@@ -179,6 +179,11 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 
 - [H. Zhang et al., 'An optical neural chip for implementing complex-valued neural network'](https://www.nature.com/articles/s41467-020-20719-7)
 
+- [X. Lin et al., 'All-optical machine learning using diffractive deep neural networks'](https://www.science.org/doi/10.1126/science.aat8084)
+
+    - This is free-space bulk optics, not integrated photonics. 
+
+
 ## Variation: Impact, Modeling, and Calibration
 
 - [I. Zand et al., 'Effects of coupling and phase imperfections in programmable photonic hexagonal waveguide meshes'](https://opg.optica.org/prj/fulltext.cfm?uri=prj-8-2-211&id=426491)
@@ -236,9 +241,10 @@ To me, this topic is a very important one, yet at a very immature stage. The fut
 
 - [Ahmadreza Farsaei, 'Introduction to Layout Design and Automation of Photonic Integrated Circuits'](https://link.springer.com/book/10.1007/978-3-031-25288-4)
 
-## System-Level Electro-Optical Integration
+## System-Level Electronic-Optical Integration, Co-Packaged Optics
 
 - [S. Chen et al., 'Single-chip microprocessor that communicates directly using light'](https://www.nature.com/articles/nature16454)
 
 - [Amir H Atabaki et al., 'Integrating photonics with silicon nanoelectronics for the next generation of systems on a chip'](https://www.nature.com/articles/s41586-018-0028-z)
 
+- [Norman P. Jouppi et al., 'TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings'](https://arxiv.org/pdf/2304.01433.pdf)
