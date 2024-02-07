@@ -5,6 +5,8 @@ The goal of Photonics Design Automation is to use algorithmic methods (such as g
 
 The reference list below will be updated regularly along the author's reading and research. Want to contribute? If you find some overlooked papers (or even a whole overlooked area), please open issues, contact the author at [zhengqi@mit.edu](mailto:zhengqi@mit.edu), or pull requests. For more info about the author, please see his homepage: [https://zhengqigao.github.io/](https://zhengqigao.github.io/).
 
+Please also consider joining our monthly [OPTsys Seminar](https://sites.google.com/view/optsys/home?authuser=1), where we will invite experts from industry and academia to share the latest developement of optical/photonics computing system.
+
 ## Warm Up: Prediction of the Market, BigTech Company
 
 - [Global Silicon Photonics Market Size Revenue Expected to Grow USD 9.14 Billion by 2030](https://www.prnewswire.com/news-releases/global-silicon-photonics-market-size-revenue-expected-to-grow-usd-9-14-billion-by-2030--with-27-4-cagr-polaris-market-research-301539481.html)
@@ -39,7 +41,7 @@ The reference list below will be updated regularly along the author's reading an
 
     - Classical and comprehensive.
 
-## Introduction to Integrated Silicon Photonics
+## Introduction to Integrated Silicon Photonics and Optical Computing
 
 - [Richard Soref 'The Past, Present, and Future of Silicon Photonics'](https://ieeexplore.ieee.org/document/4032698)
 
@@ -59,8 +61,11 @@ The reference list below will be updated regularly along the author's reading an
 
 - [Zhengqi Gao, 'Introduction to Photonic Design Automation'](https://zhengqigao.github.io/articles/Introduction_to_Photonic_Design_Automation.pdf)
 
-    - A 2-page newbie-friendly article. Only high school knowledge required.
+    - A 2-page newbie-friendly article, suitable for zero background.
 
+- [Peter L. McMahon, 'The physics of optical computing'](https://arxiv.org/pdf/2308.00088.pdf)
+
+    - Highly recommended, a nice introduction on the feature of optical computing.
 
 ## Numerical Simulation Techniques (Mode, FDTD, S-Matrix, etc.)
 
@@ -182,6 +187,14 @@ Adjoint method plus gradient descent optimization appears to be the main stream 
 - [X. Lin et al., 'All-optical machine learning using diffractive deep neural networks'](https://www.science.org/doi/10.1126/science.aat8084)
 
     - This is free-space bulk optics, not integrated photonics. 
+
+- [C. Demirkiran et al., 'An Electro-Photonic System for Accelerating Deep Neural Networks'](https://arxiv.org/pdf/2109.01126.pdf)
+
+    - From a system point of view, hetereogenous integration with electronics components. (Simulation based?)
+
+- [Z. Zhong et al., 'Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference'](https://lightning.mit.edu)
+
+    - Not integrated. Discrete devices assembled. Demonstrate a 3-layer MLP (termed Lenet-300-100 in the paper) on chip. Others are simulations.
 
 
 ## Variation: Impact, Modeling, and Calibration
