@@ -69,6 +69,10 @@ Please also consider joining our monthly [OPTsys Seminar](https://sites.google.c
 
 ## Numerical Simulation Techniques (Mode, FDTD, S-Matrix, etc.)
 
+Software reference:
+
+- [Optics & Photonics](https://github.com/Cherish0925/optics-photonics) - English/Chinese software directory covering electromagnetic, mode and circuit simulation, with physical methods, licenses, native APIs and original documentation.
+
 Effective Index Method:  
 
 - [K. S. Chiang, 'Analysis of optical fibers by the effective-index method'](https://opg.optica.org/ao/fulltext.cfm?uri=ao-25-3-348&id=29059)
